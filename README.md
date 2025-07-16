@@ -17,7 +17,7 @@ A modern Flask-based weather application with a clean UI, real-time weather data
 
 ## 📸 Screenshot
 
-![Weather App Screenshot]("C:\Users\asus\Pictures\Screenshots\weather app.png")
+![Weather App Screenshot](weatherapp.png)
 
 ---
 
